@@ -1,5 +1,5 @@
 # mozaik101video
-
+izabelya.py dosyası https://github.com/codebox/mosaic adresinden alınmıştır ve üzerinde değişiklik yapılmıştır.
 
 Mozaik fotoğrafları görmüşsünüzdür. Peki ya mozaik videoları?
 
