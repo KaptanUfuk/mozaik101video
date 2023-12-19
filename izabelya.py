@@ -231,7 +231,7 @@ if __name__ == '__main__':
 		if not os.path.isfile(source_image):
 			show_error("Kanka '{}' bu adrese gittim resim falan yok benzin parami ver".format(source_image))
 		elif not os.path.isdir(tile_dir):
-			show_error("Kuccucuk resimleri bulamadim sendeki kucuk oldugu icin galiba buraya resim atcan : '{}'".format(tile_dir))
+			show_error("Kucuk resimleri bulamadim buraya resim atcan : '{}'".format(tile_dir))
 		else:
 			mosaic(source_image, tile_dir)
 
