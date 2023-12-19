@@ -1,3 +1,4 @@
+#Bu dosyanın kaynak kodları https://raw.githubusercontent.com/codebox/mosaic/master/mosaic.py adresinden alınmış ve üzerinde değişiklik yapılmıştır. Kodun asıl sahibi "codebox" adlı github kullanıcısıdır.
 import sys
 import os, os.path
 from PIL import Image, ImageOps
