@@ -8,3 +8,6 @@ Program CPU ile çalışmaktadır(?).
 
 Örnek video :
 https://youtu.be/2n62H-KtFug
+
+.NET 7.0 veya üstünü gerektirmektedir.
+Güçlü bir bilgisayarınız olmalı ve uzun videoları mozaik video çevirmeye çalışmamalısınız. Yoksa bilgisayarınızı günlerce açık tutmanız gerekebilir.
